@@ -1,1 +1,1 @@
-alert.("first shot!);
+alert("sec shot!);
