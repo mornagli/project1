@@ -1,1 +1,1 @@
-alert("sec shot!);
+alert("secccc shot!);
